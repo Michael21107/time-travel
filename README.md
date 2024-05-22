@@ -13,10 +13,10 @@ The most common errors made by ChatGPT were as follows:
 
 - Incorrect or obsolete function names;
 - Forgetting previous changes. I had to double-check the submitted code each time, or ask to send only a separate piece of code that had been changed;
-- Confusing game concepts. For example, at first he did not understand the difference between the 3D portal marker and the blip on the game map.
+- Confusing game concepts. For example, at first, he did not understand the difference between the 3D portal marker and the blip on the game map.
 
-To create at least some effect of real time travel, the AI added a little passphrase at my request: if you punch 2004 while playing as Michael, it will move to North Yankton.
+To create at least some effect of real-time travel, the AI added a little passphrase at my request: if you punch 2004 while playing as Michael, it will move to North Yankton.
 
 # Important warning
 
-All prompts and result in source code are in Russian. In releases you can download English version.
+All prompts and results in the source code are in Russian. In releases, you can download the English version.
